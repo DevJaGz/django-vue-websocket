@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="doc/test.gif">
+  <img src="doc/testApp.gif">
 </div>
